@@ -60,14 +60,14 @@ Complete all of the following in your notes section.
 
 ## Checklist
 
-- [ ] Create at least three headers (Level 1, Level 2, Level 3)
-- [ ] Include one horizontal rule
-- [ ] Use bold text
-- [ ] Use italic text
-- [ ] Create a bullet list containing at least three items
-- [ ] Create a numbered list containing at least three items
-- [ ] Create a task list containing at least three tasks
-- [ ] Add a hyperlink with your GitHub profile
+- [x] Create at least three headers (Level 1, Level 2, Level 3)
+- [x] Include one horizontal rule
+- [x] Use bold text
+- [x] Use italic text
+- [x] Create a bullet list containing at least three items
+- [x] Create a numbered list containing at least three items
+- [x] Create a task list containing at least three tasks
+- [x] Add a hyperlink with your GitHub profile
 
 ## Instructions
 
@@ -85,5 +85,27 @@ Complete all of the following in your notes section.
 # Section 3: Student Notes
 
 
-# Github Notes
 
+
+# Github Notes
+**Clone** means that you are copy a remote *repository* to your computer.
+
+## Notes 2
+-   A default branch is a **main**.
+-   **Local** is stored on your computer.
+- **Remote** is files stored in the GitHub servers.
+
+### Notes 3
+
+1. **Staging** chooses which changes you want to have or save.
+2. A **Commit** saves and keeps a snapshot of your staged changes.
+3. **Push** sends your local commits to GitHub and **Pull** downloads the newest changes from GitHub.
+
+- [x] Understand the difference between Push and Pull 
+
+- [x] Learn the Staging Definition
+
+- [x] Study all Terminology of GitHub
+
+[GitHub](https://github.com/EmeryLane)
+---
