@@ -84,5 +84,6 @@ Complete all of the following in your notes section.
 
 # Section 3: Student Notes
 
-Delete this line and write your notes here.
+
+# Github Notes
 
